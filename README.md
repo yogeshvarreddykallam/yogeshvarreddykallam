@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML and data science
 - 📫 How to reach me email me:yogeshvarreddykallam@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am learning to us git 😊😊😊
+- ⚡ Fun fact: i am learning to use git 😊😊😊
 
 <!---
 yogeshvarreddykallam/yogeshvarreddykallam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
