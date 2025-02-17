@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yogeshvarreddykallam
-- 🌐  yogeshvarreddy.com
+- 🌐:yogeshvarreddy.com
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently going to Grad school @pennstate
 - 💞️ I’m looking to collaborate on ML and data science works
